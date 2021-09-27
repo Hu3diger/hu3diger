@@ -21,4 +21,4 @@ I'm Martin Ruediger, and here you'll find some stats about my daily work.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hu3diger&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hu3diger&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hu3diger&layout=compact&theme=dark&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
