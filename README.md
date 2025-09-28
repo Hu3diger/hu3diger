@@ -7,7 +7,6 @@ I'm Martin Ruediger, and here you'll find some stats about my daily work.
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on GEOvendas
-- 🌱 I’m currently learning Go Lang and Kotlin
 - 🆕 I love learning new things
 <!--
 - 💬 Ask me about ...
